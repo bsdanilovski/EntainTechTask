@@ -1,0 +1,49 @@
+{
+  "BaseUrl": "https://sports.bwin.com/en/sports/live/betting",
+  "Browser": "chromium",
+  "Headless": false,
+  "Timeout": 30000,
+  "Viewports": {
+    "Desktop": {
+      "Width": 1920,
+      "Height": 1080
+    },
+    "Mobile": {
+      "Width": 375,
+      "Height": 667
+    }
+  },
+  "Sports": [
+    "American Football",
+    "Baseball",
+    "Basketball",
+    "Boxing",
+    "Chess",
+    "Combat sports",
+    "Cricket",
+    "Cycling",
+    "Darts",
+    "Entertainment",
+    "Football",
+    "Formula 1",
+    "Futsal",
+    "Gaelic Games",
+    "Golf",
+    "Handball",
+    "Ice Hockey",
+    "Motorsport",
+    "NASCAR",
+    "Politics",
+    "Pool",
+    "Rugby League",
+    "Rugby Union",
+    "Snooker",
+    "Specials",
+    "Surfing",
+    "Table Tennis",
+    "Tennis",
+    "Voleyball",
+    "Water Polo"
+  ]
+}
+
